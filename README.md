@@ -31,7 +31,9 @@ Document Object Model, it displays html in a tree format
 
 2. What is an event?
 events are interactions or events that occurs in the window, whether it be from the user interacting with the site and its elements, or the window itself 
+
 3. What is an event listener?
+an event listener listens for an event. when the event occurs it begins firing off whatever actions you required once the event was initiated
 
 4. Why would we convert a NodeList into an Array?
 in order to use the essential methods in a devs toolkit, you must first turn the nodelist into an array
